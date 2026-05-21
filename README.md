@@ -27,7 +27,7 @@ Menjelaskan alur logika interaksi pengguna dari awal hingga akhir, mulai dari me
 **Deskripsi:**  
 Wireframe menunjukkan struktur dasar layout, sedangkan mockup memperlihatkan tampilan visual sebelum pembuatan prototype interaktif di Figma.
 
-**Gambar Mockup:**  
+<img width="2223" height="2019" alt="wireframe tabunganku" src="https://github.com/user-attachments/assets/b259b16c-f318-4a54-aee4-34e879ef38b3" />
 
 ---
 
@@ -36,8 +36,7 @@ Wireframe menunjukkan struktur dasar layout, sedangkan mockup memperlihatkan tam
 Tahap pembuatan tampilan akhir aplikasi berdasarkan prinsip desain yang menarik, sederhana, dan konsisten.  
 Desain dibuat menggunakan **Figma** dengan pendekatan tampilan mobile modern.
 
-**Gambar UI:**  
-
+<img width="3062" height="1946" alt="ui tabungan ku" src="https://github.com/user-attachments/assets/a0d5dd1e-eebf-4e65-8e02-da66cb8254d6" />
 
 ---
 
@@ -58,6 +57,7 @@ Proses perencanaan, pembagian tugas, dan progress proyek dikelola melalui platfo
 
 **Link ClickUp Project:**
 
+https://sharing.clickup.com/90182730317/g/h/2kzmygjd-458/35b64993e08ec66
 
 **Link Video UX Splash Screen Dan Prototype:**
 
